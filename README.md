@@ -1,6 +1,5 @@
 # FP_DWO_KELOMPOK9
 Final Project Pengembangan Data Warehouse dan Dashboard Adventureworks
-
 \
 Perkenalkan kami dari kelompok 9 Paralel B yang terdiri dari :\
 \
@@ -25,3 +24,23 @@ Langkah-langkah yang dibutuhkan untuk menjalankan app dengan baik :
 9. Pindahkan file `jsp` dan `xml` (adw1, adw2) yang ada pada folder `OLAP` pindahkan kedalam folder `C:\xampp\tomcat\webapps\mondrian\WEB-INF\queries`
 10. Pindahkan file `testpage.jsp` dan `index` (jsp, html) yang ada pada folder mondrian pindahkan kedalam folder `C:\xampp\tomcat\webapps\mondrian`
 11. Jalankan aplikasi dengan mengakses http://localhost/FP_DWO_KELOMPOK9
+
+# Preview
+## Dashboard 
+![image](https://user-images.githubusercontent.com/88191214/176779382-44cb5bb3-befb-4161-9f3e-20219b839505.png)
+
+## Customer Chart
+![image](https://user-images.githubusercontent.com/88191214/176779563-f01f963c-ce1a-4141-99af-44e0e37ac7da.png)
+
+## Product Chart
+![image](https://user-images.githubusercontent.com/88191214/176779629-3733031c-4dde-4471-9b3b-0c6b37f6cb61.png)
+
+## Sales Chart
+![image](https://user-images.githubusercontent.com/88191214/176779697-2d82452a-ed38-406d-b8c2-1d213600da36.png)
+
+## Shipment Chart
+![image](https://user-images.githubusercontent.com/88191214/176779757-b48e7de5-26b4-4278-a16d-f736c58f3b66.png)
+
+
+
+
